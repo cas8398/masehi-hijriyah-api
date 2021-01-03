@@ -23,4 +23,4 @@ http://api.flagodna.com/hijriyah/widget/
 http://api.flagodna.com/hijriyah/widget/api.js
 
 Tempatkan pada header tag  <script src="http://api.flagodna.com/hijriyah/widget/api.js"></script> 
- dan panggil dengan div = <div id="response"></div>
+ dan panggil dengan div = < div id="response"> < /div>
