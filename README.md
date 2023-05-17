@@ -14,6 +14,22 @@ bulan : 2 angka
 tahun : 4 angka
 --- 
 
+# contoh json
+[
+    {
+        "hari": "Rabu",
+        "hari_jawa": "Pon",
+        "tanggal_hijriyah": "26",
+        "bulan_hijriyah": " Syawwaal ",
+        "tahun_hijriyah": "1444",
+        "tanggal_masehi": "17",
+        "bulan_masehi": "Mei",
+        "tahun_masehi": "2023",
+        "acaranya": "Persiapan besok puasa sunnah senin-kamis",
+        "puasanya": "",
+        "puasanya2": ""
+    }
+]
 
 
 # Demo widget 
