@@ -15,7 +15,7 @@ tahun : 4 angka
 --- 
 
 # contoh json
-;;;
+```json
 [
     {
         "hari": "Rabu",
@@ -31,7 +31,7 @@ tahun : 4 angka
         "puasanya2": ""
     }
 ]
-;;;
+```
 
 # Demo widget 
 http://api.flagodna.com/hijriyah/widget/
