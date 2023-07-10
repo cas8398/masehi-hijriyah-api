@@ -46,6 +46,6 @@ Tempatkan pada header tag
 ``` 
 dan panggil dengan div = 
 ```html
-< div id="response"> < /div>
+< div id="response">< /div>
 ``` 
  updated : 14-06-2023
