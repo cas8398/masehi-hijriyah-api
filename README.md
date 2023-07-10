@@ -1,13 +1,10 @@
  # Hijri Calender
 mengkonversi tanggal masehi ke hijriyah
 
-# Demo
-https://rapidapi.com/cas8398/api/masehi-ke-hijriyah
-
-# Penggunaan
-contoh : http://api.flagodna.com/hijriyah/api/12-11-2020
- 
+# Demo dan Penggunaan
+https://rapidapi.com/cas8398/api/masehi-ke-hijriyah 
 ```json
+Pilih tanggal dengan format : 02/05/2023
 Perlu diperhatikan pada tanggalnya : 
 tanggal : 2 angka
 bulan : 2 angka
