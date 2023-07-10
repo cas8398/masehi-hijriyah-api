@@ -29,20 +29,5 @@ tahun : 4 angka
     }
 ]
 ```
-
-# Demo widget 
-http://api.flagodna.com/hijriyah/widget/
-
-# atau gunakan widget 
-http://api.flagodna.com/hijriyah/widget/api.js
-
-Tempatkan pada header tag  
-```html
-<script src="http://api.flagodna.com/hijriyah/widget/api.js"></script> 
  
-``` 
-dan panggil dengan div = 
-```html
-< div id="response">< /div>
-``` 
  updated : 14-06-2023
