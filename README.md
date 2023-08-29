@@ -4,11 +4,11 @@ mengkonversi tanggal masehi ke hijriyah
 # Demo dan Penggunaan
 https://rapidapi.com/cas8398/api/masehi-ke-hijriyah 
 ```json
-Pilih tanggal dengan format : 02/05/2023
+Pilih tanggal dengan format : 2023/02/05
 Perlu diperhatikan pada tanggalnya : 
+tahun : 4 angka 
 tanggal : 2 angka
 bulan : 2 angka
-tahun : 4 angka 
 ```
 
 # contoh json
